@@ -1,6 +1,6 @@
 # Distributed-Tracing-Spring-sleuth
 
-Spring-cloud-sleuth - assign a unique id to the request so that i can the request across the multiple components.
+Spring-cloud-sleuth - assign a unique id to the request so that i can trace the request across the multiple components.
 
 steps for implementation of spring - cloud - sleuth
 
